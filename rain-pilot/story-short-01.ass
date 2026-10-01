@@ -1,0 +1,17 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Top,DejaVu Sans,62,&H00FFFFFF,&H00FFFFFF,&H00000000,&H99000000,-1,0,0,0,100,100,0,0,3,0,0,8,40,40,180,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Top,,0,0,0,,The duck waited in the rain
+Dialogue: 0,0:00:05.00,0:00:10.00,Top,,0,0,0,,One page left to write
+Dialogue: 0,0:00:10.00,0:00:15.00,Top,,0,0,0,,The bridge lights came on
+Dialogue: 0,0:00:15.00,0:00:20.00,Top,,0,0,0,,Finish the note?
+Dialogue: 0,0:00:20.00,0:00:25.00,Top,,0,0,0,,Or follow the duck?
+Dialogue: 0,0:00:25.00,0:00:30.00,Top,,0,0,0,,A = Finish   B = Follow
